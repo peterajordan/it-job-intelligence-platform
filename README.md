@@ -1,4 +1,10 @@
-# IT Job Intelligence Platform
+# 🚀 IT Job Intelligence Platform
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![RapidAPI](https://img.shields.io/badge/API-RapidAPI-blue)
+![Google Sheets](https://img.shields.io/badge/Google-Sheets-green)
+![Automation](https://img.shields.io/badge/Automation-Workflow-orange)
+![AI Agents](https://img.shields.io/badge/AI-GPT%20Agents-purple)
 
 AI-assisted IT career automation platform integrating:
 - Custom GPT agents
@@ -9,6 +15,15 @@ AI-assisted IT career automation platform integrating:
 - Interview preparation
 
 ---
+
+# 🌐 Live Components
+
+| Component | Status |
+|---|---|
+| GPT Career Agent | Active |
+| API Automation | Active |
+| Google Sheets Integration | Active |
+| AI Scoring Workflow | In Progress |
 
 # Overview
 
