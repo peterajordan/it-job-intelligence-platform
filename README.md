@@ -154,19 +154,6 @@ job_intelligence_automation.js
 README.md
 ```
 
----
-
-# 📸 Screenshots
-
-
-Example (Please see section):
-- GPT Agent Interface
-- Google Sheets Workflow
-- API Output
-- Automation Dashboard
-
----
-
 <p align="center">
 Built by Peter Jordan • Systems Analyst • Cloud • Cybersecurity • AI & Automation
 </p>
