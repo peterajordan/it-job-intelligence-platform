@@ -6,22 +6,22 @@ This folder contains the conceptual workflow and future modular structure for th
 
 ### 1. Job Retrieval Agent
 Responsible for:
-- Querying external job APIs
-- Retrieving live job opportunities
-- Processing API responses
+> Querying external job APIs,
+> Retrieving live job opportunities,
+> Processing API responses.
 
 ### 2. Filtering and Classification Agent
 Responsible for:
-- Keyword filtering
-- Remote opportunity identification
-- Duplicate detection
-- Opportunity categorization
+> Keyword filtering,
+> Remote opportunity identification,
+> Duplicate detection,
+> Opportunity categorization.
 
 ### 3. Opportunity Scoring Agent
 Responsible for:
-- Fit score calculations
-- Priority ranking
-- Relevance analysis
+> Fit score calculations,
+> Priority ranking,
+> Relevance analysis.
 
 ## Planned Future Agents
 
