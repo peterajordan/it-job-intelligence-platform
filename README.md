@@ -25,6 +25,10 @@ AI-assisted IT career automation platform integrating:
 | Google Sheets Integration | Active |
 | AI Scoring Workflow | In Progress |
 
+
+# 💡 Why I Built This
+
+As an IT professional actively navigating the modern technology job market, I wanted to create a smarter and more automated way to organize opportunities, improve workflows, and explore how APIs and AI agents can support career development and technical operations.
 # Overview
 
 This project was created to help automate the process of searching, organizing, and prioritizing IT and cybersecurity job opportunities from external job APIs.
