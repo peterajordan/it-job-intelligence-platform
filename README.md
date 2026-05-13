@@ -128,7 +128,7 @@ AI-powered career assistant focused on:
 - Interview preparation
 - Career workflow support
 
-🚀 [Launch GPT Agent](PASTE_YOUR_GPT_LINK_HERE)
+🚀 [Launch GPT Agent](https://chatgpt.com/g/g-6a0479f96c3c8191964dedd2ee113784-sofl-it-career-office-public-v1-1)
 
 ---
 
