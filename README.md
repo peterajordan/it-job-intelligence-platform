@@ -158,9 +158,8 @@ README.md
 
 # 📸 Screenshots
 
-_Add screenshots here later_
 
-Example:
+Example (Please see section):
 - GPT Agent Interface
 - Google Sheets Workflow
 - API Output
