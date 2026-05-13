@@ -28,6 +28,29 @@ The platform retrieves live job listings, filters relevant positions, removes du
 - Google Sheets
 - JSON
 
+## AI Agent Workflow
+
+This platform also incorporates AI-assisted workflow concepts through multiple specialized agents designed to support different stages of the job search process.
+
+### Current Agent Concepts
+
+- Job Retrieval Agent
+  Retrieves and organizes job listings from external APIs.
+
+- Filtering and Classification Agent
+  Analyzes opportunities based on keywords, remote eligibility, and relevance.
+
+- Opportunity Scoring Agent
+  Calculates fit scores and prioritizes opportunities based on predefined logic.
+
+### Future AI Enhancements
+
+Planned future enhancements include:
+- Resume matching
+- AI-generated interview preparation
+- Skill gap analysis
+- Intelligent job recommendations
+- Automated follow-up assistance
 ## Goals
 
 - Improve automation skills
