@@ -132,7 +132,7 @@ AI-powered career assistant focused on:
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 🔹 Resume matching  
 🔹 AI-generated interview preparation  
