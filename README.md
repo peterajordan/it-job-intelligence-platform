@@ -1,14 +1,24 @@
 # IT Job Intelligence Platform
 
-An automated IT job search and filtering platform designed to streamline job hunting workflows using APIs, automation, and Google Sheets integrations.
+AI-assisted IT career automation platform integrating:
+- Custom GPT agents
+- API job tracking
+- Automation workflows
+- Google Sheets integrations
+- Resume tailoring
+- Interview preparation
 
-## Overview
+---
+
+# Overview
 
 This project was created to help automate the process of searching, organizing, and prioritizing IT and cybersecurity job opportunities from external job APIs.
 
 The platform retrieves live job listings, filters relevant positions, removes duplicates, calculates opportunity fit scores, and exports results into Google Sheets for easier tracking and analysis.
 
-## Features
+---
+
+# Features
 
 - API-based job retrieval
 - Automated filtering of IT opportunities
@@ -19,7 +29,9 @@ The platform retrieves live job listings, filters relevant positions, removes du
 - Automation workflows
 - JSON data handling
 
-## Technologies Used
+---
+
+# Technologies Used
 
 - JavaScript
 - Google Apps Script
@@ -28,30 +40,57 @@ The platform retrieves live job listings, filters relevant positions, removes du
 - Google Sheets
 - JSON
 
-## AI Agent Workflow
+---
+
+# AI Agent Workflow
 
 This platform also incorporates AI-assisted workflow concepts through multiple specialized agents designed to support different stages of the job search process.
 
-### Current Agent Concepts
+## Current Agent Concepts
 
-- Job Retrieval Agent
-  Retrieves and organizes job listings from external APIs.
+### Job Retrieval Agent
+Retrieves and organizes job listings from external APIs.
 
-- Filtering and Classification Agent
-  Analyzes opportunities based on keywords, remote eligibility, and relevance.
+### Filtering and Classification Agent
+Analyzes opportunities based on keywords, remote eligibility, and relevance.
 
-- Opportunity Scoring Agent
-  Calculates fit scores and prioritizes opportunities based on predefined logic.
+### Opportunity Scoring Agent
+Calculates fit scores and prioritizes opportunities based on predefined logic.
 
-### Future AI Enhancements
+---
+
+# Public GPT Agents
+
+## SoFL IT Career Office GPT
+
+Collaborative IT career agents with export and API job tracking.
+
+### Features
+- IT job search assistance
+- Resume tailoring
+- Interview preparation
+- Career guidance
+- API-assisted workflows
+
+# 🚀 Launch GPT
+
+## [Click Here to Open SoFL IT Career Office GPT](PASTE_YOUR_GPT_LINK_HERE)
+
+---
+
+# Future AI Enhancements
 
 Planned future enhancements include:
+
 - Resume matching
 - AI-generated interview preparation
 - Skill gap analysis
 - Intelligent job recommendations
 - Automated follow-up assistance
-## Goals
+
+---
+
+# Goals
 
 - Improve automation skills
 - Learn API integrations
@@ -59,7 +98,9 @@ Planned future enhancements include:
 - Explore AI and workflow automation concepts
 - Create real-world portfolio projects
 
-## Future Improvements
+---
+
+# Future Improvements
 
 - AI-powered recommendation system
 - Resume matching
@@ -67,7 +108,21 @@ Planned future enhancements include:
 - Email notifications
 - Expanded job source integrations
 
-## Author
+---
+
+# Repository Structure
+
+```plaintext
+agents/
+docs/
+screenshots/
+job_intelligence_automation.js
+README.md
+```
+
+---
+
+# Author
 
 Peter Jordan
 
